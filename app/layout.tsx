@@ -3,9 +3,9 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  title: 'NIIMBOT Universal Label Studio',
+  description: 'Professionelle Etiketten gestalten und direkt über Bluetooth auf dem NIIMBOT B1 drucken.',
+  generator: 'NIIMBOT Universal Label Studio',
   icons: {
     icon: [
       {
